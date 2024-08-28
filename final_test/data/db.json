@@ -1,0 +1,125 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "name": "Pain Reliever"
+    },
+    {
+      "id": 2,
+      "name": "Cold and Flu"
+    },
+    {
+      "id": 3,
+      "name": "Supplements"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "productCode": "PROD001",
+      "name": "Aspirin",
+      "categoryId": 1,
+      "quantity": 100,
+      "price": 10.99,
+      "dateReceived": "2024/08/20",
+      "description": "good"
+    },
+    {
+      "id": 2,
+      "productCode": "PROD002",
+      "name": "Cough Syrup",
+      "categoryId": 2,
+      "quantity": 50,
+      "price": 8.99,
+      "dateReceived": "2024/08/15",
+      "description": "effective"
+    },
+    {
+      "id": 3,
+      "productCode": "PROD003",
+      "name": "Vitamin C",
+      "categoryId": 3,
+      "quantity": 200,
+      "price": 5.49,
+      "dateReceived": "2024/08/22",
+      "description": "rich in vitamin C"
+    },
+    {
+      "productCode": "PROD1111",
+      "name": "Pain",
+      "categoryId": "1",
+      "price": 11,
+      "quantity": 1,
+      "dateReceived": "2024-08-27",
+      "description": "khong có",
+      "id": 4
+    },
+    {
+      "productCode": "PROD1112",
+      "name": "Pain2",
+      "categoryId": "1",
+      "price": 12,
+      "quantity": 1,
+      "dateReceived": "2024-08-27",
+      "description": "good",
+      "id": 5
+    },
+    {
+      "form": {
+        "productCode": "",
+        "name": "",
+        "categoryId": "",
+        "price": 0,
+        "quantity": 0,
+        "dateReceived": "",
+        "description": ""
+      },
+      "productCode": "PROD1113",
+      "name": "Pain3",
+      "categoryId": "1",
+      "price": 12,
+      "quantity": 2,
+      "dateReceived": "2024-08-26",
+      "description": "good",
+      "id": 6
+    },
+    {
+      "form": {
+        "productCode": "",
+        "name": "",
+        "categoryId": "",
+        "price": 0,
+        "quantity": 0,
+        "dateReceived": "",
+        "description": ""
+      },
+      "productCode": "PROD1114",
+      "name": "Pain4",
+      "categoryId": "1",
+      "price": 12,
+      "quantity": 1,
+      "dateReceived": "2024-08-26",
+      "description": "good",
+      "id": 7
+    },
+    {
+      "form": {
+        "productCode": "",
+        "name": "",
+        "categoryId": "",
+        "price": 0,
+        "quantity": 0,
+        "dateReceived": "",
+        "description": ""
+      },
+      "productCode": "PROD1116",
+      "name": "Pain6",
+      "categoryId": "1",
+      "price": 12,
+      "quantity": 2,
+      "dateReceived": "2024-08-27",
+      "description": "good",
+      "id": 8
+    }
+  ]
+}
